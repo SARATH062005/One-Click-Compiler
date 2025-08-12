@@ -1,4 +1,5 @@
-# One-Click-Compiler
+#   One-Click-Compiler
+
 
 **One-Click-Compiler** is a graphical interface designed to make compiling, running, and testing C++ projects (with OpenCV) effortless.
 It removes the need for command-line operations by offering a **single-window workflow** for building and executing projects using **CMake + NMake** in **Visual Studio 2022**.
