@@ -18,22 +18,29 @@ It removes the need for command-line operations by offering a **single-window wo
 ---
 
 ## Overview
-
-**Example 1 – Build Process in Progress**
-
-![Build Process](demo/2.png)
-
----
-
-**Example 2 – Running a Compiled OpenCV Application**
-
-![Run Application](demo/3.png)
-
----
-
-**Example 3 – Environment Check Results** 
-
-![Environment Check](demo/4.png)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="demo/2.png" width="80%"><br>
+        <em>Example 1 – Build Process in Progress</em>
+      </td>
+    </tr>
+    <tr><td><br></td></tr>
+    <tr>
+      <td align="center">
+        <img src="demo/3.png" width="80%"><br>
+        <em>Example 2 – Running a Compiled OpenCV Application'</em>
+      </td>
+    </tr>
+    <tr><td><br></td></tr>
+    <tr>
+      <td align="center">
+        <img src="demo/4.png" width="80%"><br>
+        <em>Example 3 – Environment Check Results</em>
+      </td>
+  </table>
+</div>
 
 ---
 
@@ -135,3 +142,6 @@ python main.py
 * Incremental builds are faster after the first compilation.
 
 ---
+<p align="center">
+  ⭐ If you find this useful, please give it a star on GitHub! ⭐
+</p>
