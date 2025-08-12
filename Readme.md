@@ -19,17 +19,20 @@ It removes the need for command-line operations by offering a **single-window wo
 
 ## Overview
 
-**Example 1 – Build Process in Progress**  
+**Example 1 – Build Process in Progress**
+
 ![Build Process](demo/2.png)
 
 ---
 
-**Example 2 – Running a Compiled OpenCV Application**  
+**Example 2 – Running a Compiled OpenCV Application**
+
 ![Run Application](demo/3.png)
 
 ---
 
-**Example 3 – Environment Check Results**  
+**Example 3 – Environment Check Results** 
+
 ![Environment Check](demo/4.png)
 
 ---
